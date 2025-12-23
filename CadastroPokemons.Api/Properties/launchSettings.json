@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "CadastroPokemons.Api": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5002",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DB_PROVIDER": "sqlite",
+        "DOTNET_ROLL_FORWARD": "Major"
+      }
+    }
+  }
+}

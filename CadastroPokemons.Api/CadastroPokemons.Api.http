@@ -1,0 +1,67 @@
+@CadastroPokemons.Api_HostAddress = http://localhost:5002
+
+### GET todos los pokémon
+GET {{CadastroPokemons.Api_HostAddress}}/api/v1/pokemons
+
+###
+
+### GET pokémon por ID
+GET {{CadastroPokemons.Api_HostAddress}}/api/v1/pokemons/1
+
+###
+
+### POST crear nuevo pokémon
+POST {{CadastroPokemons.Api_HostAddress}}/api/v1/pokemons
+Content-Type: application/json
+
+{
+  "nome": "Pikachu",
+  "tipo": "Elétrico",
+  "nivel": 25,
+  "hp": 100,
+  "ataque": 55,
+  "defesa": 40,
+  "dataCaptura": "2025-01-15",
+  "descricao": "Pokémon tipo elétrico muy popular"
+}
+
+###
+
+### POST crear Charizard
+POST {{CadastroPokemons.Api_HostAddress}}/api/v1/pokemons
+Content-Type: application/json
+
+{
+  "nome": "Charizard",
+  "tipo": "Fogo/Voador",
+  "nivel": 55,
+  "hp": 180,
+  "ataque": 130,
+  "defesa": 85,
+  "dataCaptura": "2025-02-20",
+  "descricao": "Evolução final de Charmander"
+}
+
+###
+
+### PUT actualizar pokémon
+PUT {{CadastroPokemons.Api_HostAddress}}/api/v1/pokemons/1
+Content-Type: application/json
+
+{
+  "nome": "Pikachu",
+  "tipo": "Elétrico",
+  "nivel": 35,
+  "hp": 120,
+  "ataque": 65,
+  "defesa": 50,
+  "dataCaptura": "2025-01-15",
+  "descricao": "Pikachu evolucionado y más fuerte"
+}
+
+###
+
+### DELETE eliminar pokémon
+DELETE {{CadastroPokemons.Api_HostAddress}}/api/v1/pokemons/1
+
+###

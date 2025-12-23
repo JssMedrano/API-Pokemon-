@@ -1,0 +1,46 @@
+@CadastroTrenadores.Api_HostAddress = http://localhost:5001
+
+### GET todos los entrenadores
+GET {{CadastroTrenadores.Api_HostAddress}}/api/v1/entrenadores
+
+###
+
+### GET entrenador por ID
+GET {{CadastroTrenadores.Api_HostAddress}}/api/v1/entrenadores/1
+
+###
+
+### POST crear nuevo entrenador
+POST {{CadastroTrenadores.Api_HostAddress}}/api/v1/entrenadores
+Content-Type: application/json
+
+{
+  "nome": "Ash Ketchum",
+  "email": "ash@pokemon.com",
+  "nivel": 50,
+  "cidade": "Pueblo Paleta",
+  "telefone": "11999887766",
+  "dataRegistro": "2025-01-15"
+}
+
+###
+
+### PUT actualizar entrenador
+PUT {{CadastroTrenadores.Api_HostAddress}}/api/v1/entrenadores/1
+Content-Type: application/json
+
+{
+  "nome": "Ash Ketchum",
+  "email": "ash.ketchum@pokemon.com",
+  "nivel": 75,
+  "cidade": "Pueblo Paleta",
+  "telefone": "11999887766",
+  "dataRegistro": "2025-01-15"
+}
+
+###
+
+### DELETE eliminar entrenador
+DELETE {{CadastroTrenadores.Api_HostAddress}}/api/v1/entrenadores/1
+
+###

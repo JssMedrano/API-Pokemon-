@@ -1,0 +1,202 @@
+[
+  {
+    "nome": "Pikachu",
+    "tipo": "Elétrico",
+    "nivel": 45,
+    "hp": 120,
+    "ataque": 75,
+    "defesa": 55,
+    "dataCaptura": "2020-04-01",
+    "descricao": "Pokémon elétrico icónico y compañero fiel de Ash"
+  },
+  {
+    "nome": "Charizard",
+    "tipo": "Fogo/Voador",
+    "nivel": 65,
+    "hp": 185,
+    "ataque": 140,
+    "defesa": 95,
+    "dataCaptura": "2020-06-15",
+    "descricao": "Evolución final de Charmander, dragón de fuego poderoso"
+  },
+  {
+    "nome": "Blastoise",
+    "tipo": "Água",
+    "nivel": 60,
+    "hp": 190,
+    "ataque": 110,
+    "defesa": 125,
+    "dataCaptura": "2020-05-20",
+    "descricao": "Tortuga gigante con cañones de agua en su caparazón"
+  },
+  {
+    "nome": "Venusaur",
+    "tipo": "Planta/Veneno",
+    "nivel": 58,
+    "hp": 195,
+    "ataque": 105,
+    "defesa": 115,
+    "dataCaptura": "2020-05-10",
+    "descricao": "Gigante con flor en la espalda, experto en ataques de planta"
+  },
+  {
+    "nome": "Greninja",
+    "tipo": "Água/Sombrio",
+    "nivel": 70,
+    "hp": 165,
+    "ataque": 145,
+    "defesa": 85,
+    "dataCaptura": "2021-02-14",
+    "descricao": "Ninja rana de agua, rápido y letal"
+  },
+  {
+    "nome": "Lucario",
+    "tipo": "Lutador/Aço",
+    "nivel": 68,
+    "hp": 170,
+    "ataque": 135,
+    "defesa": 95,
+    "dataCaptura": "2021-04-10",
+    "descricao": "Guerrero de aura con capacidades telepáticas"
+  },
+  {
+    "nome": "Garchomp",
+    "tipo": "Dragão/Terra",
+    "nivel": 80,
+    "hp": 215,
+    "ataque": 165,
+    "defesa": 115,
+    "dataCaptura": "2019-11-15",
+    "descricao": "Tiburón dragón terrestre, pseudo-legendario feroz"
+  },
+  {
+    "nome": "Dragonite",
+    "tipo": "Dragão/Voador",
+    "nivel": 75,
+    "hp": 200,
+    "ataque": 155,
+    "defesa": 110,
+    "dataCaptura": "2019-12-30",
+    "descricao": "Dragón amigable pero poderoso, capaz de volar a gran velocidad"
+  },
+  {
+    "nome": "Mewtwo",
+    "tipo": "Psíquico",
+    "nivel": 85,
+    "hp": 220,
+    "ataque": 170,
+    "defesa": 105,
+    "dataCaptura": "2018-08-15",
+    "descricao": "Pokémon legendario creado genéticamente, poder psíquico supremo"
+  },
+  {
+    "nome": "Gyarados",
+    "tipo": "Água/Voador",
+    "nivel": 55,
+    "hp": 210,
+    "ataque": 145,
+    "defesa": 95,
+    "dataCaptura": "2020-07-01",
+    "descricao": "Serpiente marina feroz evolucionada de Magikarp"
+  },
+  {
+    "nome": "Gengar",
+    "tipo": "Fantasma/Veneno",
+    "nivel": 62,
+    "hp": 155,
+    "ataque": 125,
+    "defesa": 75,
+    "dataCaptura": "2020-10-31",
+    "descricao": "Fantasma travieso que acecha en las sombras"
+  },
+  {
+    "nome": "Alakazam",
+    "tipo": "Psíquico",
+    "nivel": 64,
+    "hp": 145,
+    "ataque": 140,
+    "defesa": 65,
+    "dataCaptura": "2020-09-15",
+    "descricao": "Mago psíquico con un IQ de 5000"
+  },
+  {
+    "nome": "Machamp",
+    "tipo": "Lutador",
+    "nivel": 66,
+    "hp": 195,
+    "ataque": 160,
+    "defesa": 105,
+    "dataCaptura": "2020-08-20",
+    "descricao": "Luchador de cuatro brazos capaz de lanzar mil golpes por segundo"
+  },
+  {
+    "nome": "Snorlax",
+    "tipo": "Normal",
+    "nivel": 50,
+    "hp": 280,
+    "ataque": 130,
+    "defesa": 85,
+    "dataCaptura": "2020-11-05",
+    "descricao": "Pokémon dormilón gigante que bloquea caminos"
+  },
+  {
+    "nome": "Eevee",
+    "tipo": "Normal",
+    "nivel": 20,
+    "hp": 85,
+    "ataque": 65,
+    "defesa": 60,
+    "dataCaptura": "2021-06-01",
+    "descricao": "Pokémon de evolución versátil con múltiples formas"
+  },
+  {
+    "nome": "Tyranitar",
+    "tipo": "Pedra/Sombrio",
+    "nivel": 72,
+    "hp": 220,
+    "ataque": 155,
+    "defesa": 130,
+    "dataCaptura": "2021-01-10",
+    "descricao": "Dinosaurio blindado pseudo-legendario"
+  },
+  {
+    "nome": "Salamence",
+    "tipo": "Dragão/Voador",
+    "nivel": 76,
+    "hp": 210,
+    "ataque": 160,
+    "defesa": 105,
+    "dataCaptura": "2021-03-20",
+    "descricao": "Dragón alado feroz que finalmente obtuvo sus alas"
+  },
+  {
+    "nome": "Infernape",
+    "tipo": "Fogo/Lutador",
+    "nivel": 63,
+    "hp": 170,
+    "ataque": 135,
+    "defesa": 85,
+    "dataCaptura": "2021-05-15",
+    "descricao": "Mono de fuego acrobático y luchador"
+  },
+  {
+    "nome": "Swampert",
+    "tipo": "Água/Terra",
+    "nivel": 59,
+    "hp": 195,
+    "ataque": 130,
+    "defesa": 110,
+    "dataCaptura": "2021-02-28",
+    "descricao": "Anfibio de lodo poderoso y versátil"
+  },
+  {
+    "nome": "Blaziken",
+    "tipo": "Fogo/Lutador",
+    "nivel": 61,
+    "hp": 175,
+    "ataque": 145,
+    "defesa": 90,
+    "dataCaptura": "2021-04-05",
+    "descricao": "Gallo de fuego con patadas devastadoras"
+  }
+]

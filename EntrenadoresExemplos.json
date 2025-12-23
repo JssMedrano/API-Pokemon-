@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "Ash Ketchum",
+    "email": "ash@pokemon.com",
+    "nivel": 85,
+    "cidade": "Pueblo Paleta",
+    "telefone": "11999887766",
+    "dataRegistro": "2020-04-01"
+  },
+  {
+    "nome": "Misty Waterflower",
+    "email": "misty@cerulean.gym",
+    "nivel": 75,
+    "cidade": "Ciudad Celeste",
+    "telefone": "11988776655",
+    "dataRegistro": "2020-05-15"
+  },
+  {
+    "nome": "Brock Harrison",
+    "email": "brock@pewter.gym",
+    "nivel": 80,
+    "cidade": "Ciudad Plateada",
+    "telefone": "11977665544",
+    "dataRegistro": "2020-06-10"
+  },
+  {
+    "nome": "Gary Oak",
+    "email": "gary@oak.research",
+    "nivel": 90,
+    "cidade": "Pueblo Paleta",
+    "telefone": "11966554433",
+    "dataRegistro": "2020-04-05"
+  },
+  {
+    "nome": "Serena Yvonne",
+    "email": "serena@kalos.trainer",
+    "nivel": 70,
+    "cidade": "Kalos",
+    "telefone": "11955443322",
+    "dataRegistro": "2021-01-20"
+  },
+  {
+    "nome": "Dawn Berlitz",
+    "email": "dawn@coordinator.com",
+    "nivel": 72,
+    "cidade": "Sinnoh",
+    "telefone": "11944332211",
+    "dataRegistro": "2021-03-15"
+  },
+  {
+    "nome": "May Maple",
+    "email": "may@hoenn.coord",
+    "nivel": 68,
+    "cidade": "Hoenn",
+    "telefone": "11933221100",
+    "dataRegistro": "2021-05-01"
+  },
+  {
+    "nome": "Cynthia Shirona",
+    "email": "cynthia@champion.league",
+    "nivel": 100,
+    "cidade": "Sinnoh",
+    "telefone": "11922110099",
+    "dataRegistro": "2019-10-10"
+  },
+  {
+    "nome": "Red Satoshi",
+    "email": "red@legendary.trainer",
+    "nivel": 100,
+    "cidade": "Monte Plateado",
+    "telefone": "11911009988",
+    "dataRegistro": "2018-08-08"
+  },
+  {
+    "nome": "Lance Wataru",
+    "email": "lance@dragon.master",
+    "nivel": 95,
+    "cidade": "Ciudad Fuchsia",
+    "telefone": "11900998877",
+    "dataRegistro": "2019-12-25"
+  }
+]
